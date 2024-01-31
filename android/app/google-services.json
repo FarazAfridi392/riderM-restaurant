@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "561052551726",
+    "project_id": "riderem-3aeda",
+    "storage_bucket": "riderem-3aeda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561052551726:android:8c2a9988f778fb786fedbf",
+        "android_client_info": {
+          "package_name": "com.dcodax.riderem_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561052551726-ugdh3dqprvd8i7mr14725p8rj0tij213.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrD90oQAld3N23-N286Ea9IrqoEevaNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561052551726-ugdh3dqprvd8i7mr14725p8rj0tij213.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561052551726:android:a0973e538fa622446fedbf",
+        "android_client_info": {
+          "package_name": "com.dcodax.riderem_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561052551726-ugdh3dqprvd8i7mr14725p8rj0tij213.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrD90oQAld3N23-N286Ea9IrqoEevaNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561052551726-ugdh3dqprvd8i7mr14725p8rj0tij213.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
